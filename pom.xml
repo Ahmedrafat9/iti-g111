@@ -11,8 +11,8 @@
     <groupId>com.tericcabrel</groupId>
     <artifactId>iti-g106</artifactId>
     <version>1.0.0</version>
-    <name>iti-g106</name>
-    <description>iti-g106</description>
+    <name>iti-g111</name>
+    <description>iti-g111</description>
     <properties>
         <java.version>11</java.version>
     </properties>
