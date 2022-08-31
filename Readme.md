@@ -17,9 +17,8 @@ git flow init
 git floow release start 1.0.0
 git floow release finish 1.0.0
 git flow feature start feature_branch 
-git flow  feature start feature_branch
 git floow release start 1.0.1
-git flow  feature finish feature_branch
+git flow feature finish feature_branch
 git floow release finish 1.0.1
 
 ```
