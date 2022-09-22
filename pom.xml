@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tericcabrel</groupId>
-    <artifactId>iti-g106</artifactId>
+    <artifactId>iti-g111</artifactId>
     <version>1.0.0</version>
     <name>iti-g111</name>
     <description>iti-g111</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.0.1</java.version>
     </properties>
     <dependencies>
         <dependency>
