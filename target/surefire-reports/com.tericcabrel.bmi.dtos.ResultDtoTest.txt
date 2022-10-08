@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.tericcabrel.bmi.dtos.ResultDtoTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.tericcabrel.bmi.dtos.ResultDtoTest
+=======
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.tericcabrel.bmi.dtos.ResultDtoTest
+>>>>>>> b2e8e133a03d297bc03901f7f72396ac7d91faa4
